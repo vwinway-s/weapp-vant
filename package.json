@@ -1,0 +1,10 @@
+{
+  "name": "vant",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "qran",
+  "license": "MIT",
+  "dependencies": {
+    "@vant/weapp": "^1.6.4"
+  }
+}
