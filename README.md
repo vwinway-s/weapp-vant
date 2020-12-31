@@ -1,7 +1,7 @@
 # weapp-vant
 vant原生小程序代码
 
-## 小程序构建npm后调用
+小程序构建npm后使用
 
 ``` wxml
 // 事件未触发
